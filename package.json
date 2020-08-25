@@ -10,14 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/prarit3/git-test.git"
+    "url": "git+https://github.com/prarit3/git-test.git"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.2.2"
-  }
-}
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
